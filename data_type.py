@@ -22,7 +22,10 @@ bool_var = True
 print(type(bool_var))       # Boolean type
 
 name = "hello"
+faculty="CS faculty"
 print(type(name))           # String type
+print(name[2])
+
 
 List = ["Amrata", 29, "BCS"]
 print(type(List))           # List type
