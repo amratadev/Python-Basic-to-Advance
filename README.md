@@ -1,6 +1,6 @@
 # Python Basic to Advance
 
-This repository contains my journey from beginner to advanced Python programs.  
+This repository showcases my journey from beginner to advanced Python programs.  
 It includes examples of data types, input handling, string manipulation, and more.
 
 ## 🚀 Run the Code
