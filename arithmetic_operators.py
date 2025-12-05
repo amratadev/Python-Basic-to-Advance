@@ -29,5 +29,6 @@ print(expression)
 weight = float(input("Enter weight (kg): "))
 height = float(input("Enter height (m): "))
 
-print("BMI =", (weight / (height**2)))
-print("BMI =", round(weight / (height**2), 1))
+print("BMI =", (weight / (height**2)))#Body Mass Index.
+
+print("BMI =", round(weight / (height**2), 2))#round(number, ndigits)

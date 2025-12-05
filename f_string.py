@@ -1,4 +1,5 @@
-# Define variables
+#- Stands for formatted string literal.
+
 name = "Jenny"      # Person's name
 age = 30            # Person's age
 height = 1.6        # Person's height in meters
